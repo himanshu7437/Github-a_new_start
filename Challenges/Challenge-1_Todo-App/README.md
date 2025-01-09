@@ -37,5 +37,6 @@ Welcome to the first challenge! In this challenge, you'll be building a simple *
 
 ---
 
+
 ### **Next Step**
 Once you've completed the To-Do App challenge, move on to **Challenge 2: Portfolio Site** to continue improving your GitHub skills.
