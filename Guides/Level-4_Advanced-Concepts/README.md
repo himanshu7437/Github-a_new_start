@@ -1,16 +1,16 @@
-# **Level 4: Advanced Concepts**
+# **Level 4: Advanced Concepts** 🎓
 
 Master the advanced features of GitHub and elevate your workflow to the next level. In this level, you'll learn about powerful tools and techniques that streamline development and enhance your productivity.
 
 ### **Topics Covered:**
-1. **Git Rebase and Squash**
-2. **GitHub Actions for Automation**
-3. **Hosting with GitHub Pages**
-4. **Using .gitignore and Git LFS**
+1. **Git Rebase and Squash** 🔄
+2. **GitHub Actions for Automation** ⚙️
+3. **Hosting with GitHub Pages** 🌐
+4. **Using .gitignore and Git LFS** 🚫📦
 
 ---
 
-## **1. Git Rebase and Squash**
+## **1. Git Rebase and Squash** 🔄
 
 **Git Rebase** and **Git Squash** are advanced techniques used to modify commit history in Git. These tools are useful for cleaning up commit history before merging branches and keeping your Git history linear and readable.
 
@@ -50,7 +50,7 @@ Squashing combines multiple commits into one, making the commit history more con
 
 ---
 
-## **2. GitHub Actions for Automation**
+## **2. GitHub Actions for Automation** ⚙️
 
 **GitHub Actions** is a feature that allows you to automate workflows, such as building, testing, and deploying code directly from your GitHub repository. It’s based on YAML configuration files that define your workflows.
 
@@ -88,7 +88,7 @@ This YAML configuration runs tests every time changes are pushed to the `main` b
 
 ---
 
-## **3. Hosting with GitHub Pages**
+## **3. Hosting with GitHub Pages** 🌐
 
 **GitHub Pages** allows you to host static websites directly from a GitHub repository. It’s an easy way to showcase projects, portfolios, or documentation.
 
@@ -102,7 +102,7 @@ This YAML configuration runs tests every time changes are pushed to the `main` b
 
 ---
 
-## **4. Using .gitignore and Git LFS**
+## **4. Using .gitignore and Git LFS** 🚫📦
 
 ### **.gitignore:**
 
@@ -142,7 +142,7 @@ Git LFS is an extension for Git to manage large files, such as videos, images, o
 
 ---
 
-## **Conclusion**
+## **Conclusion** 🎉
 
 Congratulations! You’ve mastered advanced GitHub features such as Git rebase, GitHub Actions for automation, hosting with GitHub Pages, and using `.gitignore` and Git LFS for handling large files. These powerful tools help improve your development workflow and allow you to collaborate more efficiently.
 

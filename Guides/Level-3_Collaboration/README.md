@@ -1,16 +1,16 @@
-# **Level 3: Collaboration**
+# **Level 3: Collaboration** 🤝
 
 Collaboration is key to working with others on GitHub! In this level, you will learn how to effectively collaborate on projects using various GitHub features that enable teamwork and communication.
 
 ### **Topics Covered:**
-1. **Forking Repositories**
-2. **Creating and Reviewing Pull Requests**
-3. **Issue Tracking and Labels**
-4. **Collaborating with Teams**
+1. **Forking Repositories** 🍴
+2. **Creating and Reviewing Pull Requests** 🔄
+3. **Issue Tracking and Labels** 📝
+4. **Collaborating with Teams** 👥
 
 ---
 
-## **1. Forking Repositories**
+## **1. Forking Repositories** 🍴
 
 **Forking** is a process where you create a personal copy of someone else's repository. It allows you to freely experiment with changes without affecting the original project. Forking is a fundamental part of collaborating on open-source projects.
 
@@ -43,7 +43,7 @@ To keep your fork up to date with the original repository:
 
 ---
 
-## **2. Creating and Reviewing Pull Requests**
+## **2. Creating and Reviewing Pull Requests** 🔄
 
 Once you’ve made changes to your forked repository or branch, you can submit a **pull request** (PR) to suggest your changes to the original repository.
 
@@ -65,7 +65,7 @@ Once you’ve made changes to your forked repository or branch, you can submit a
 
 ---
 
-## **3. Issue Tracking and Labels**
+## **3. Issue Tracking and Labels** 📝
 
 GitHub provides an issue tracking system that allows you to create and track bugs, tasks, and feature requests. Issues can be tagged with labels to categorize and prioritize them.
 
@@ -86,7 +86,7 @@ You can assign issues to team members so they know who is responsible for addres
 
 ---
 
-## **4. Collaborating with Teams**
+## **4. Collaborating with Teams** 👥
 
 GitHub also provides features for working within teams, particularly useful for organizations or larger projects.
 
@@ -110,7 +110,7 @@ GitHub allows you to set specific **permissions** for teams. You can choose from
 
 ---
 
-## **Conclusion**
+## **Conclusion** ✅
 
 In this level, you learned how to collaborate effectively on GitHub by forking repositories, creating and reviewing pull requests, using issue tracking and labels, and collaborating with teams. These skills are essential for working with others on open-source projects or in a team setting.
 
