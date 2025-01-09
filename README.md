@@ -36,16 +36,16 @@ This repository is divided into four main sections:
 
 ### 1. **Guides**  
 Step-by-step tutorials covering everything from the basics to advanced concepts.  
-- [Level 1: Introduction to GitHub](./guides/Level-1_Intro-to-GitHub/)  
-- [Level 2: Basic Operations](./guides/Level-2_Basic-Operations/)  
-- [Level 3: Collaboration](./guides/Level-3_Collaboration/)  
-- [Level 4: Advanced Concepts](./guides/Level-4_Advanced-Concepts/)  
+- [Level 1: Introduction to GitHub](./Guides/Level-1_Intro-to-GitHub/)  
+- [Level 2: Basic Operations](./Guides/Level-2_Basic-Operations/)  
+- [Level 3: Collaboration](./Guides/Level-3_Collaboration/)  
+- [Level 4: Advanced Concepts](./Guides/Level-4_Advanced-Concepts/)  
 
 ### 2. **Challenges**  
 Real-world projects to put your GitHub skills into action.  
-- [Challenge 1: To-Do App](./challenges/Challenge-1_Todo-App/)  
-- [Challenge 2: Portfolio Site](./challenges/Challenge-2_Portfolio-Site/)  
-- [Challenge 3: Open Source Contribution](./challenges/Challenge-3_Open-Source-Contribution/)  
+- [Challenge 1: To-Do App](./Challenges/Challenge-1_Todo-App/)  
+- [Challenge 2: Portfolio Site](./Challenges/Challenge-2_Portfolio-Site/)  
+- [Challenge 3: Open Source Contribution](./Challenges/Challenge-3_Open-Source-Contribution/)  
 
 ### 3. **Progress Tracker**  
 Monitor your learning journey with a detailed [progress tracker](./progress-tracker.md).  
@@ -56,15 +56,15 @@ Monitor your learning journey with a detailed [progress tracker](./progress-trac
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/Github-a-new-start.git
+   git clone https://github.com/himanshu7437/Github-a-new-start.git
    cd Github-a-new-start
    ```
 
 2. **Start with Level 1**  
-   Navigate to the [Guides](./guides/) folder and begin with the basics.
+   Navigate to the [Guides](./Guides/) folder and begin with the basics.
 
 3. **Complete Challenges**  
-   Apply your skills in the [Challenges](./challenges/) section.
+   Apply your skills in the [Challenges](./Challenges/) section.
 
 4. **Track Your Progress**  
    Use the [Progress Tracker](./progress-tracker.md) to stay on course.
@@ -82,7 +82,7 @@ Please adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to maintain a respe
 ---
 
 ## **License**  
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.  
+This project is licensed under the MIT License. See the [LICENSE](./License) file for details.  
 
 ---
 
