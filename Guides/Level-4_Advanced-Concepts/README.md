@@ -146,4 +146,4 @@ Git LFS is an extension for Git to manage large files, such as videos, images, o
 
 Congratulations! You’ve mastered advanced GitHub features such as Git rebase, GitHub Actions for automation, hosting with GitHub Pages, and using `.gitignore` and Git LFS for handling large files. These powerful tools help improve your development workflow and allow you to collaborate more efficiently.
 
-🎯 **Congratulations!** You've completed the guide. Explore [Challenges](../../challenges/) next to put your knowledge into practice!
+🎯 **Congratulations!** You've completed the guide. Explore [Challenges](../../Challenges/) next to put your knowledge into practice!

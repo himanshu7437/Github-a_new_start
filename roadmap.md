@@ -13,7 +13,7 @@ This roadmap outlines the recommended path for mastering GitHub, from basic conc
 - ✅ Creating your first repository  
 - ✅ Understanding repositories, commits, and branches  
 
-👉 **Start Here:** [Level 1: Introduction to GitHub](./guides/Level-1_Intro-to-GitHub/)  
+👉 **Start Here:** [Level 1: Introduction to GitHub](./Guides/level-1_Intro-to-GitHub/)  
 
 ---
 
@@ -24,7 +24,7 @@ This roadmap outlines the recommended path for mastering GitHub, from basic conc
 - ✅ Creating and merging branches  
 - ✅ Handling merge conflicts  
 
-👉 **Explore:** [Level 2: Basic Operations](./guides/Level-2_Basic-Operations/)  
+👉 **Explore:** [Level 2: Basic Operations](./Guides/Level-2_Basic-Operations/)  
 
 ---
 
@@ -35,7 +35,7 @@ This roadmap outlines the recommended path for mastering GitHub, from basic conc
 - ✅ Reviewing and merging pull requests  
 - ✅ Managing issues and discussions  
 
-👉 **Dive Into:** [Level 3: Collaboration](./guides/Level-3_Collaboration/)  
+👉 **Dive Into:** [Level 3: Collaboration](./Guides/Level-3_Collaboration/)  
 
 ---
 
@@ -46,15 +46,15 @@ This roadmap outlines the recommended path for mastering GitHub, from basic conc
 - ✅ Publishing with GitHub Pages  
 - ✅ Understanding Git Ignore and LFS  
 
-👉 **Master Advanced Tools:** [Level 4: Advanced Concepts](./guides/Level-4_Advanced-Concepts/)  
+👉 **Master Advanced Tools:** [Level 4: Advanced Concepts](./Guides/Level-4_Advanced-Concepts/)  
 
 ---
 
 ## 🎯 **Final Step: Hands-On Projects & Challenges**  
 Put your knowledge into action! Complete these real-world projects:  
-- 📦 [Challenge 1: To-Do App](./challenges/Challenge-1_Todo-App/)  
-- 💻 [Challenge 2: Portfolio Site](./challenges/Challenge-2_Portfolio-Site/)  
-- 🌐 [Challenge 3: Open Source Contribution](./challenges/Challenge-3_Open-Source-Contribution/)  
+- 📦 [Challenge 1: To-Do App](./Challenges/Challenge-1_Todo-App/)  
+- 💻 [Challenge 2: Portfolio Site](./Challenges/Challenge-2_Portfolio-Site/)  
+- 🌐 [Challenge 3: Open Source Contribution](./Challenges/Challenge-3_Open-Source-Contribution/)  
 
 ---
 
@@ -64,4 +64,4 @@ Put your knowledge into action! Complete these real-world projects:
 ---
 
 ## **Ready to Start?**  
-🚀 Jump into [Level 1: Introduction to GitHub](./guides/Level-1_Intro-to-GitHub/) and begin your journey!  
+🚀 Jump into [Level 1: Introduction to GitHub](./Guides/level-1_Intro-to-GitHub/) and begin your journey!  
