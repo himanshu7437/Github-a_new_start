@@ -50,9 +50,6 @@ Real-world projects to put your GitHub skills into action.
 ### 3. **Progress Tracker**  
 Monitor your learning journey with a detailed [progress tracker](./progress-tracker.md).  
 
-### 4. **Badges**  
-Earn badges for completing each level and showcase your achievements.  
-
 ---
 
 ## **Getting Started**  

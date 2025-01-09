@@ -58,9 +58,8 @@ Put your knowledge into action! Complete these real-world projects:
 
 ---
 
-## 🏆 **Progress Tracker & Badges**  
-- Use the [Progress Tracker](./progress-tracker.md) to monitor your learning milestones.  
-- Earn badges for each completed phase to showcase your progress!  
+## 🏆 **Progress Tracker**  
+- Use the [Progress Tracker](./progress-tracker.md) to monitor your learning milestones. 
 
 ---
 
