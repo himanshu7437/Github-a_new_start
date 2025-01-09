@@ -36,7 +36,7 @@ This repository is divided into four main sections:
 
 ### 1. **Guides**  
 Step-by-step tutorials covering everything from the basics to advanced concepts.  
-- [Level 1: Introduction to GitHub](./Guides/Level-1_Intro-to-GitHub/)  
+- [Level 1: Introduction to GitHub](./Guides/level-1_Intro-to-Github)  
 - [Level 2: Basic Operations](./Guides/Level-2_Basic-Operations/)  
 - [Level 3: Collaboration](./Guides/Level-3_Collaboration/)  
 - [Level 4: Advanced Concepts](./Guides/Level-4_Advanced-Concepts/)  
